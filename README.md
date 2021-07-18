@@ -9,7 +9,7 @@ https://colab.research.google.com/drive/11v5h7QmpJasyzQuKCIleO17_lkGbJHCD?usp=sh
 
 you may change '*alpha*' value from 0 to 26. It means alphabets in lower case.
 
-<Font color=red>your email id and passwords are needed to login into credly official site. </font>
+***your email id and passwords are needed to login into credly official site.***
 
 ### For Certifications:
 
