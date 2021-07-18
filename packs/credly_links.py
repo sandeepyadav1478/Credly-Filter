@@ -62,4 +62,4 @@ def scrap_links(credit0,credit1,alpha=26):
     driver.quit()
     return temp_list
 
-# print(scrap_links('sandeepyadav1478@gmail.com','qwer1478tyui',1))
+# print(scrap_links('exmaple@gmail.com','password',1))
