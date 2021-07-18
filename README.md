@@ -1,3 +1,3 @@
 # credly-filter
 
-![GitHub Logo](https://raw.githubusercontent.com/sandeepyadav1478/Transfer-files-from-google-to-terabox-cloud/main/template.png)
+![GitHub Logo](https://github.com/sandeepyadav1478/Credly-Filter/blob/main/img/mki.jpg)
